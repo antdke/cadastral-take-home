@@ -203,7 +203,7 @@ NOTE: I had implementation for Mathpix as well. But, I removed it towards the en
 
 [Results Example](https://docs.google.com/document/d/1QXRE24EvqUBpr-CCHUs-qAr7RmzkkqlWNbtvdqHKJbw/edit?usp=sharing)
 
-🌟 **Tesseract is the recommended OCR provider to its superior accuracy.**
+🌟 **Tesseract is the recommended OCR provider due to its superior accuracy.**
 
 If processing speed is a higher priority than accuracy, and minor inaccuracies are acceptable, you might consider Google Cloud Vision.
 
