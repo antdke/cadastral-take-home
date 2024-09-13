@@ -28,6 +28,7 @@ filelock==3.16.0
 fonttools==4.53.1
 fqdn==1.5.1
 fsspec==2024.9.0
+fuzzywuzzy==0.18.0
 google-api-core==2.19.2
 google-auth==2.34.0
 google-cloud-vision==3.7.4
