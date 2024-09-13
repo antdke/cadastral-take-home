@@ -1,0 +1,5 @@
+.env
+*.pkl
+*.pdf
+venv/
+@venv/
